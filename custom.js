@@ -7,5 +7,11 @@ dari Mitrais
 
 Training on 15 November 2016
 Testing 3 1
+
 #Note 3
 Catatan: perubahan workshop 15 November
+
+
+#Note4
+Arif Changes
+
