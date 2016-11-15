@@ -5,4 +5,4 @@ Pada tanggal 15 November 2016
 dan ini akan diikuti oleh xx orang peserta 
 dari Mitrais 
 
-- Catatan: perubahan workshop 15 November
+- Add changes in workshop on 15 November 2016
